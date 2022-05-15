@@ -26,19 +26,6 @@ All notable changes to this project will be documented in this file.
 - Add R CMD Check GHA
 - Add codecoverage
 
-### Miscellaneous Tasks
-
-- Autopublish 2022-05-15T01:07:12Z
-- Autopublish 2022-05-15T01:07:58Z
-- Autopublish 2022-05-15T01:09:21Z
-- Autopublish 2022-05-15T01:11:51Z
-- Autopublish 2022-05-15T01:15:15Z
-- Autopublish 2022-05-15T01:16:43Z
-- Autopublish 2022-05-15T01:19:24Z
-- Autopublish 2022-05-15T01:22:22Z
-- Autopublish 2022-05-15T01:33:22Z
-- Autopublish 2022-05-15T01:34:50Z
-
 ### Testing
 
 - Initialize testthat infrastructure
@@ -53,6 +40,20 @@ All notable changes to this project will be documented in this file.
 - Buildignore codemeta.json
 - Fix "hidden files" in templates
 - Fix r_config_dir export for examples
+
+### Chore
+
+- Autopublish 2022-05-15T01:07:12Z
+- Autopublish 2022-05-15T01:07:58Z
+- Autopublish 2022-05-15T01:09:21Z
+- Autopublish 2022-05-15T01:11:51Z
+- Autopublish 2022-05-15T01:15:15Z
+- Autopublish 2022-05-15T01:16:43Z
+- Autopublish 2022-05-15T01:19:24Z
+- Autopublish 2022-05-15T01:22:22Z
+- Autopublish 2022-05-15T01:33:22Z
+- Autopublish 2022-05-15T01:34:50Z
+- Autopublish 2022-05-15T01:37:17Z
 
 ### Config
 
