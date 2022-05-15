@@ -24,12 +24,14 @@ All notable changes to this project will be documented in this file.
 - Additions to pkgdevt.R
 - Add pkgdown site
 - Add R CMD Check GHA
+- Add codecoverage
 
 ### Miscellaneous Tasks
 
 - Autopublish 2022-05-15T01:07:12Z
 - Autopublish 2022-05-15T01:07:58Z
 - Autopublish 2022-05-15T01:09:21Z
+- Autopublish 2022-05-15T01:11:51Z
 
 ### Testing
 
