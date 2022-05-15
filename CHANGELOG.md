@@ -20,6 +20,11 @@ All notable changes to this project will be documented in this file.
 - Add rver function
 - Add git-cliff GHA
 - Add codemeta GHA
+- Additions to pkgdevt.R
+
+### Miscellaneous Tasks
+
+- Autopublish 2022-05-15T01:07:12Z
 
 ### Testing
 
