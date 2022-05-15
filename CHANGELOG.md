@@ -22,11 +22,14 @@ All notable changes to this project will be documented in this file.
 - Add git-cliff GHA
 - Add codemeta GHA
 - Additions to pkgdevt.R
+- Add pkgdown site
+- Add R CMD Check GHA
 
 ### Miscellaneous Tasks
 
 - Autopublish 2022-05-15T01:07:12Z
 - Autopublish 2022-05-15T01:07:58Z
+- Autopublish 2022-05-15T01:09:21Z
 
 ### Testing
 
