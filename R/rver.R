@@ -23,6 +23,8 @@
 #' @export
 #'
 #' @examples
+#' library(configR)
+#'
 #' # get full R version
 #' rver()
 #'
