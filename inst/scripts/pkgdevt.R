@@ -62,7 +62,8 @@ usethis::use_github(private = FALSE)
 # github labels -----------------------------------------------------------
 library(templateeR)
 templateeR::use_gh_labels()
-
+templateeR::use_git_cliff()
+templateeR::use_git_cliff_action()
 
 # package docs ------------------------------------------------------------
 
@@ -111,9 +112,12 @@ c(
 
 # meta --------------------------------------------------------------------
 
+usethis::use_lifecycle_badge("experimental")
+knitr::knit("README.Rmd")
+
 require(codemetar)
 codemetar::write_codemeta()
-codemetar::give_opinions('C:\Users\jimmy\Dev\jimbrig\configR')
+codemetar::give_opinions()
 
 # templates ---------------------------------------------------------------
 
