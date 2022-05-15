@@ -34,16 +34,19 @@ All notable changes to this project will be documented in this file.
 - Autopublish 2022-05-15T01:11:51Z
 - Autopublish 2022-05-15T01:15:15Z
 - Autopublish 2022-05-15T01:16:43Z
+- Autopublish 2022-05-15T01:19:24Z
 
 ### Testing
 
 - Initialize testthat infrastructure
 - Add unit tests for rver
 - Add unit tests for r_config_dir
+- Library withr
 
 ### Bug
 
 - Fix examples
+- Fix DESCRIPTION imports and suggests
 
 ### Config
 
