@@ -1,3 +1,53 @@
 # configR 0.0.0.9000
 
 * Added a `NEWS.md` file to track changes to the package.
+
+## Bug Fixes
+
+- Fix examples
+- Fix DESCRIPTION imports and suggests
+- Buildignore codemeta.json
+- Fix "hidden files" in templates
+- Fix r_config_dir export for examples
+
+## Configuration
+
+- Add .Rbuildignore
+- Configure R build options in .Rproj
+
+## Documentation
+
+- Add initial README
+- Add initial CHANGELOG and cliff.toml
+- Add LICENSE
+- Generate function man pages
+- Fix README
+
+## Features
+
+- Update pkgdevt script
+- Add various .config/R templates
+- Add inst_pak function
+- Add r_config_dir function
+- Add rver function
+- Add git-cliff GHA
+- Add codemeta GHA
+- Additions to pkgdevt.R
+- Add pkgdown site
+- Add R CMD Check GHA
+- Add codecoverage
+
+## Meta
+
+- Add codemeta.json
+- Add package R file
+- Export r_config_dir function
+
+## Testing
+
+- Initialize testthat infrastructure
+- Add unit tests for rver
+- Add unit tests for r_config_dir
+- Library withr
+
+
