@@ -165,3 +165,7 @@ c(
 
 usethis::use_pkgdown_github_pages()
 
+usethis::use_github_action_check_standard()
+
+usethis::use_coverage(repo_spec = "jimbrig/configR")
+usethis::use_github_action("test-coverage")
