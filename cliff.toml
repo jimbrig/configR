@@ -39,9 +39,13 @@ commit_preprocessors = [
 ]
 # regex for parsing and grouping commits
 commit_parsers = [
-    { message = "^feat", group = "Features"},
+    { message = "^bug", group = "Bug Fixes"},
     { message = "^fix", group = "Bug Fixes"},
+    { message = "^feat", group = "Features"},    
     { message = "^doc", group = "Documentation"},
+    { message = "^config", group = "Configuration"},
+    { message = "^setup", group = "Configuration"},
+    { message = "^meta", group = "Meta"},
     { message = "^perf", group = "Performance"},
     { message = "^refactor", group = "Refactor"},
     { message = "^style", group = "Styling"},
@@ -51,7 +55,7 @@ commit_parsers = [
     { body = ".*security", group = "Security"},
 ]
 # filter out the commits that are not matched by commit parsers
-filter_commits = false
+filter_commits = true
 # glob pattern for matching git tags
 tag_pattern = "v[0-9]*"
 # regex for skipping tags
