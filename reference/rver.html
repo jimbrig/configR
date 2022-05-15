@@ -90,7 +90,9 @@ commonly used formats.</p>
 <span class="r-in"></span>
 <span class="r-in"><span class="co"># get path the default library path</span></span>
 <span class="r-in"><span class="fu"><a href="r_config_dir.html">r_config_dir</a></span><span class="op">(</span><span class="st">"lib"</span>, <span class="fu">rver</span><span class="op">(</span><span class="st">"lib"</span><span class="op">)</span><span class="op">)</span></span>
-<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in r_config_dir("lib", rver("lib")):</span> could not find function "r_config_dir"</span>
+<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>path[1]="/home/runner/.config/R": No such file or directory</span>
+<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>path[1]="/home/runner/.config/R/lib/4.2": No such file or directory</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "/home/runner/.config/R/lib/4.2"</span>
 <span class="r-in"></span>
 <span class="r-in"><span class="co"># get full text string of R version details</span></span>
 <span class="r-in"><span class="fu">rver</span><span class="op">(</span><span class="st">"text"</span><span class="op">)</span></span>
