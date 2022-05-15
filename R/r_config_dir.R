@@ -13,6 +13,8 @@
 #' variable, and if unset defaults to `~/.config/R` on all operating systems
 #' (i.e. `%USERPROFILE%\.config\R` on Windows).
 #'
+#' @export
+#'
 #' @examples
 #' library(configR)
 #'
