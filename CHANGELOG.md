@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - Add initial CHANGELOG and cliff.toml
 - Add LICENSE
 - Generate function man pages
+- Fix README
 
 ### Features
 
@@ -25,6 +26,7 @@ All notable changes to this project will be documented in this file.
 ### Miscellaneous Tasks
 
 - Autopublish 2022-05-15T01:07:12Z
+- Autopublish 2022-05-15T01:07:58Z
 
 ### Testing
 
