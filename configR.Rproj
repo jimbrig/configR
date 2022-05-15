@@ -18,5 +18,8 @@ LineEndingConversion: Posix
 
 BuildType: Package
 PackageUseDevtools: Yes
-PackageInstallArgs: --no-multiarch --with-keep.source
-PackageRoxygenize: rd,collate,namespace
+PackageRoxygenize: rd,collate,namespace,vignette
+
+PythonType: system
+PythonVersion: 3.10.4
+PythonPath: ~/AppData/Local/Programs/Python/Python310/python.exe

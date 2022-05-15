@@ -1,2 +1,6 @@
 ^configR\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$
+^cliff\.toml$
+^CHANGELOG\.md$
