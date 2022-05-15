@@ -31,6 +31,8 @@ The following formatted return values can be specified with the \code{format} ar
 }
 }
 \examples{
+library(configR)
+
 # get full R version
 rver()
 

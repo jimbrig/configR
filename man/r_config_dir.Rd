@@ -22,6 +22,8 @@ variable, and if unset defaults to \verb{~/.config/R} on all operating systems
 (i.e. \verb{\%USERPROFILE\%\\.config\\R} on Windows).
 }
 \examples{
+library(configR)
+
 # retrieve path to .Rprofile (i.e. ~/.config/R/.Rprofile)
 r_config_dir(".Rprofile")
 

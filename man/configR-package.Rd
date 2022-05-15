@@ -12,6 +12,7 @@ Setup and configure an optimal R development environment.
 Useful links:
 \itemize{
   \item \url{https://github.com/jimbrig/configR}
+  \item \url{https://jimbrig.github.io/configR/}
   \item Report bugs at \url{https://github.com/jimbrig/configR/issues}
 }
 
