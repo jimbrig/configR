@@ -1,0 +1,55 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "configR",
+  "description": "Setup and configure an optimal R development environment.",
+  "name": "configR: R Conviguration Package",
+  "codeRepository": "https://github.com/jimbrig/configR",
+  "issueTracker": "https://github.com/jimbrig/configR/issues",
+  "license": "https://spdx.org/licenses/MIT",
+  "version": "0.0.0.9000",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "R",
+    "url": "https://r-project.org"
+  },
+  "runtimePlatform": "R version 4.2.0 (2022-04-22 ucrt)",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Jimmy",
+      "familyName": "Briggs",
+      "email": "jimmy.briggs@jimbrig.com",
+      "@id": "https://orcid.org/0000-0002-7489-8787"
+    }
+  ],
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Jimmy",
+      "familyName": "Briggs",
+      "email": "jimmy.briggs@jimbrig.com",
+      "@id": "https://orcid.org/0000-0002-7489-8787"
+    }
+  ],
+  "softwareSuggestions": [
+    {
+      "@type": "SoftwareApplication",
+      "identifier": "testthat",
+      "name": "testthat",
+      "version": ">= 3.0.0",
+      "provider": {
+        "@id": "https://cran.r-project.org",
+        "@type": "Organization",
+        "name": "Comprehensive R Archive Network (CRAN)",
+        "url": "https://cran.r-project.org"
+      },
+      "sameAs": "https://CRAN.R-project.org/package=testthat"
+    }
+  ],
+  "softwareRequirements": {
+    "SystemRequirements": null
+  },
+  "fileSize": "12.819KB",
+  "releaseNotes": "https://github.com/jimbrig/configR/blob/master/NEWS.md"
+}
