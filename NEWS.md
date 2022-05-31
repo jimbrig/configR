@@ -1,9 +1,5 @@
 # configR 0.1.0
 
-# configR 0.0.0.9000
-
-* Added a `NEWS.md` file to track changes to the package.
-
 ## Bug Fixes
 
 - Fix examples
@@ -38,6 +34,7 @@
 - Add pkgdown site
 - Add R CMD Check GHA
 - Add codecoverage
+- Test out the r-pkg-validation GHA
 
 ## Meta
 
@@ -51,5 +48,10 @@
 - Add unit tests for rver
 - Add unit tests for r_config_dir
 - Library withr
+
+# configR 0.0.0.9000
+
+* Added a `NEWS.md` file to track changes to the package.
+* Setup package infrastructure
 
 
