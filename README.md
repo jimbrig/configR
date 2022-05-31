@@ -23,3 +23,14 @@ You can install the development version of configR from
 # install.packages("devtools")
 devtools::install_github("jimbrig/configR")
 ```
+
+## Documentation
+
+### Changelog and NEWS
+
+- [Changelog](CHANGELOG.md)
+- [News](News.md)
+
+### Validation Report
+
+View the [latest release](https://github.com/jimbrig/configR/releases/tag/v0.1.0)'s validation report: [configR-0.1.0-validation-report.pdf](https://github.com/jimbrig/configR/releases/download/v0.1.0/configR-0.1.0-validation-report.pdf)
