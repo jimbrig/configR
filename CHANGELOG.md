@@ -38,6 +38,7 @@ All notable changes to this project will be documented in this file.
 - Add pkgdown site
 - Add R CMD Check GHA
 - Add codecoverage
+- Test out the r-pkg-validation GHA
 
 ### Meta
 
