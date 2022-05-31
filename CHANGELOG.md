@@ -24,6 +24,7 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE
 - Generate function man pages
 - Fix README
+- Update NEWS for release
 
 ### Features
 
@@ -45,6 +46,7 @@ All notable changes to this project will be documented in this file.
 - Add codemeta.json
 - Add package R file
 - Export r_config_dir function
+- Re-build codemeta.json
 
 ### Testing
 
