@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### Documentation
+
+- Update NEWS for release
+
+### Meta
+
+- Re-build codemeta.json
+
+## [0.1.0] - 2022-05-31
+
 ### Bug Fixes
 
 - Fix examples
@@ -24,7 +34,6 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE
 - Generate function man pages
 - Fix README
-- Update NEWS for release
 
 ### Features
 
@@ -46,7 +55,6 @@ All notable changes to this project will be documented in this file.
 - Add codemeta.json
 - Add package R file
 - Export r_config_dir function
-- Re-build codemeta.json
 
 ### Testing
 
